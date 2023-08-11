@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Private Limited, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To Mithun Technologies PVT LTD, Bengaluru, Inida ,Karnataka.</h2>
+			<h3>Contact @ +91-9980923226</h3>
 		</div>	
 	</div>
 
